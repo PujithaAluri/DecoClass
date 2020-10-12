@@ -1,0 +1,2 @@
+# DecoClass
+for creating decos
